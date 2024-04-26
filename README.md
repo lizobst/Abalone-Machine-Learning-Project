@@ -13,4 +13,4 @@ LightGBM- 1.5097
 The most accurate model was LightGBM and the least accurate was Random Forest.
 
 ### Lessons Learned
-This project was a fun exercise for me to practice machine learning through a hands on project. This project made me realize how much there is to learn in terms of machine learning. I would like to continue to learn more so that I can put it into practice and possibly create climate change or ocean acidification model predictions.
+This project was a fun exercise for me to practice machine learning through a hands on project. This project made me realize how much there is to learn in terms of machine learning. I would like to continue to learn more so that I can put it into practice and possibly create climate change or ocean acidification forecast models.
